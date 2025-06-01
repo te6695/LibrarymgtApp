@@ -1,0 +1,31 @@
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\bin\Debug\librarymgtsystem.exe.config
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\bin\Debug\librarymgtsystem.exe
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\bin\Debug\librarymgtsystem.pdb
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.BookDetailsForm.resources
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.BorrowerDetailsForm.resources
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.IssueBookForm.resources
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.login.resources
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.Mainwindow.resources
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.Properties.Resources.resources
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.ReturnBookForm.resources
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.signup.resources
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.csproj.GenerateResource.cache
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.exe
+C:\Users\student\Desktop\c#\librarymgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.pdb
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\bin\Debug\librarymgtsystem.exe
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\bin\Debug\librarymgtsystem.exe.config
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\bin\Debug\librarymgtsystem.pdb
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.BookDetailsForm.resources
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.BorrowerDetailsForm.resources
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.IssueBookForm.resources
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.login.resources
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.Mainwindow.resources
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.Properties.Resources.resources
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.ReturnBookForm.resources
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.csproj.GenerateResource.cache
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.exe
+C:\Users\student\Desktop\c_sharp programming\Library_mgtsystem\librarymgtsystem\obj\Debug\librarymgtsystem.pdb
